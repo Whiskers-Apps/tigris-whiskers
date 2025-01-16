@@ -1,0 +1,11 @@
+[package]
+name = "tigris-whiskers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sniffer-rs = "1.1.2"
+whiskers_palette_rs = { git = "https://github.com/Whiskers-Color-Scheme/whiskers-palette-rs" }
+tigris-rs = { path = "/home/lighttigerxiv/projects/whiskers-apps/tigris-rs", features = [
+    "extension",
+] }

@@ -1,0 +1,9 @@
+{
+  "id": "whiskers-palette",
+  "name": "Whiskers Palette",
+  "description": "An extension to get the whiskers palette values",
+  "creator_name": "Whiskers Apps",
+  "creator_link": "https://github.com/Whiskers-Apps",
+  "repository_link": "https://github.com/Whiskers-Apps/tigris-whiskers",
+  "settings": []
+}
